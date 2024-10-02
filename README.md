@@ -21,3 +21,7 @@ Go Your Own Way owners wanted to know the best way to go about offering speciali
 ### Tools
 
 I used Python and relevant libraries (pandas, NumPy, Seaborn, Matplotlib, Folium, Pylab and SKlearn) for this analysis.
+
+### Project deliverable
+
+My Tableau storyboard for this project can be found [here](https://public.tableau.com/app/profile/lena.cole/viz/GoYourOwnWaytravelagencycustomertargetinganalysis/Story1).
