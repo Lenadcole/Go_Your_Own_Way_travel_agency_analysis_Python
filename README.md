@@ -1,6 +1,6 @@
 # Go_Your_Own_Way_travel_agency_analysis_Python
 
-Acting as an analyst for Go Your Own Way, I was tasked with uncovering customer groupings for which specialised holiday packages could be created and revenue maximised. I performed initial and exploratory analysis on the Travelpac dataset from ONS in order to gain more insight into UK travel habits. I added a geographic element to the analysis before I undertook linear regression and cluster analysis to discover traveller groups that could be used to create specific customer groups.
+Acting as an analyst for Go Your Own Way, I was tasked with uncovering customer groupings for which specialised holiday packages could be created and revenue maximised. I performed initial and exploratory analysis on the Travelpac dataset from ONS in order to gain more insight into UK travel habits. I then added a geographic element to the analysis before I undertook linear regression and cluster analysis to discover traveller clusters that could be used to create specific customer groups.
 
 ### Who are Go Your Own Way?
 
